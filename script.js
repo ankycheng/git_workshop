@@ -1,6 +1,7 @@
 function setup() {
   createCanvas(400, 400);
-  background(192);
+  background(128);
+  fill('pink');
 }
 
 function draw() {
